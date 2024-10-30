@@ -1,0 +1,53 @@
+form{
+    border: solid 1px white;
+    width: 450px;
+    padding-left: 10px;
+    margin-left: 100px;
+    padding-top: 30px;
+}
+body{
+    background-image: url(burger4.jpg);
+    background-repeat: no-repeat;
+    background-size: 1300px 700px;
+}
+label{
+    color: white;
+    font-size: 23px;
+    font-weight: bold;
+}
+h1{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+input{
+    height: 30px;
+    width: 300px;
+    background: none;
+    outline: none;
+    border: none;
+    border-bottom-style: solid;
+    border-bottom-color: goldenrod;
+    border-bottom-width: 5px;
+    color: white;
+    font-size: 20px;
+}
+textarea{
+    width: 300px;
+    height: 90px;
+}
+button{
+    height: 50px;
+    width: 150px;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+#avatar{
+    border-radius: 50%;
+    position: relative;
+    left: 300px;
+    top: 50px;
+}
